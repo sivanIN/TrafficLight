@@ -1,0 +1,42 @@
+
+  .traffic{
+    border: 2px solid black;
+    height: 360px;
+    width: 200px;
+    background-color: dimgray;
+    margin-left: 650px;
+    margin-top: 50px;
+  }
+  .red{
+    border: 2px solid black;
+    border-radius: 100px;
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 43px;
+    background-color:gray;
+  }
+
+  .green{
+    border: 2px solid black;
+    border-radius: 100px;
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 43px;
+    background-color:gray;
+  }
+
+  .orange{
+    border: 2px solid black;
+    border-radius: 100px;
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 43px;
+    background-color:gray;
+  }
+
+  .body{
+    background-color: black;
+  }
